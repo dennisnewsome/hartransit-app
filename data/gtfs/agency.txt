@@ -1,0 +1,2 @@
+agency_name,agency_url,agency_timezone
+Housatonic Area Regional Transit,https://www.hartct.org,America/New_York
