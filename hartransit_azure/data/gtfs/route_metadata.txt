@@ -1,0 +1,64 @@
+route_id,route_category,service_notes,official_route_name,official_description,official_pdf_url,official_effective_note,official_source_type,official_source_url
+1,city,"Hours of Operation
+
+Monday-Friday 6AM to 6PM
+
+Saturdays 8AM to 5PM",1 Route,Town Park - Hospital,https://www.hartransit.com/sites/default/files/SysMap%20CityBus%2072022C.pdf,Listed on official HARTransit system map,official_system_map,https://www.hartransit.com/sites/default/files/SysMap%20CityBus%2072022C.pdf
+10,loop,"LOOP route bus service on Evenings, Saturdays, and Sundays in the Greater Danbury region.
+ 
+Hours of Operation
+Monday - Friday • 5P - 10:30P
+
+Saturdays • 5P - 10:30P
+Sundays • 9A - 7P",10 Route,Exit 2 Park and Ride / Reserve area,https://hartransit.com/sites/default/files/HART-%2010%20Route-Schedule_1-19.pdf,Official schedule PDF on HARTransit site dated January 2019,official_pdf,https://hartransit.com/sites/default/files/HART-%2010%20Route-Schedule_1-19.pdf
+17,loop,"LOOP route bus service on Evenings, Saturdays, and Sundays in the Greater Danbury region.
+ 
+Hours of Operation
+Monday - Friday • 5P - 10:30P
+
+Saturdays • 5P - 10:30P
+Sundays • 9A - 7P",17 Route,Greater Danbury loop service,,Local service-hours file indicates evening and weekend loop service,local_service_hours,C:\Users\sanfo\OneDrive\Desktop\bp_claude\bus_project_work\bus_data\Loop Bus Schedules\LoopBus_Route17\Service Hours.txt
+2,city,"Hours of Operation
+
+Monday-Friday 6AM to 6PM
+
+Saturdays 8AM to 5PM",2 Route,Newtown Rd - Stony Hill,https://www.hartransit.com/sites/default/files/SysMap%20CityBus%2072022C.pdf,Listed on official HARTransit system map,official_system_map,https://www.hartransit.com/sites/default/files/SysMap%20CityBus%2072022C.pdf
+3,city,"Hours of Operation
+
+Monday-Friday 6AM to 6PM
+
+Saturdays 8AM to 5PM",3 Route,Mill Plain Rd - Brewster,https://www.hartransit.com/sites/default/files/SysMap%20CityBus%2072022C.pdf,Listed on official HARTransit system map,official_system_map,https://www.hartransit.com/sites/default/files/SysMap%20CityBus%2072022C.pdf
+4,city,"Hours of Operation
+
+Monday-Friday 6AM to 6PM
+
+Saturdays 8AM to 5PM",4 Route,Brookfield - YMCA,https://www.hartransit.com/sites/default/files/4RT%20Schedule%202025.pdf,Effective April 14 2025,official_pdf,https://www.hartransit.com/sites/default/files/4RT%20Schedule%202025.pdf
+5,city,"Hours of Operation
+
+Monday-Friday 6AM to 6PM
+
+Saturdays 8AM to 5PM",5 Route,Bethel Center,https://www.hartransit.com/sites/default/files/SysMap%20CityBus%2072022C.pdf,Listed on official HARTransit system map,official_system_map,https://www.hartransit.com/sites/default/files/SysMap%20CityBus%2072022C.pdf
+6,city,"Hours of Operation
+
+Monday-Friday 6AM to 6PM
+
+Saturdays 8AM to 5PM",6 Route,Danbury Mall - Lake Ave,https://www.hartransit.com/sites/default/files/SysMap%20CityBus%2072022C.pdf,Listed on official HARTransit system map,official_system_map,https://www.hartransit.com/sites/default/files/SysMap%20CityBus%2072022C.pdf
+7,city,"Hours of Operation
+
+Monday-Friday 6AM to 6PM
+
+Saturdays 8AM to 5PM",7 Route,New Milford - Rt 7,https://hartransit.com/sites/default/files/7route.pdf,Official schedule PDF available on HARTransit site,official_pdf,https://hartransit.com/sites/default/files/7route.pdf
+8,loop,"LOOP route bus service on Evenings, Saturdays, and Sundays in the Greater Danbury region.
+ 
+Hours of Operation
+Monday - Friday • 5P - 10:30P
+
+Saturdays • 5P - 10:30P
+Sundays • 9A - 7P",8 Route,Greater Danbury loop service,,Local service-hours file indicates evening and weekend loop service,local_service_hours,C:\Users\sanfo\OneDrive\Desktop\bp_claude\bus_project_work\bus_data\Loop Bus Schedules\LoopBus_Route8\Service Hours.txt
+9,loop,"LOOP route bus service on Evenings, Saturdays, and Sundays in the Greater Danbury region.
+ 
+Hours of Operation
+Monday - Friday • 5P - 10:30P
+
+Saturdays • 5P - 10:30P
+Sundays • 9A - 7P",9 Route,Greater Danbury loop service,,Local service-hours file indicates evening and weekend loop service,local_service_hours,C:\Users\sanfo\OneDrive\Desktop\bp_claude\bus_project_work\bus_data\Loop Bus Schedules\LoopBus_Route9\Service Hours.txt
