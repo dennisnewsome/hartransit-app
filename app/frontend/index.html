@@ -7776,56 +7776,40 @@
       });
     }
 
-    async function refreshLiveData() {
-      try {
-        const response = await fetch("/api/all");
-        if (!response.ok) {
-          throw new Error(`HTTP ${response.status}`);
+    // -- lightweight CSV parser (handles quoted fields, embedded commas/newlines, CRLF) --
+    function parseCsv(text) {
+      const rows = [];
+      let row = [];
+      let field = "";
+      let inQuotes = false;
+      const pushField = () => { row.push(field); field = ""; };
+      const pushRow = () => { pushField(); rows.push(row); row = []; };
+
+      for (let i = 0; i < text.length; i++) {
+        const c = text[i];
+        if (inQuotes) {
+          if (c === '"') {
+            if (text[i + 1] === '"') { field += '"'; i++; }
+            else { inQuotes = false; }
+          } else {
+            field += c;
+          }
+        } else if (c === '"') {
+          inQuotes = true;
+        } else if (c === ",") {
+          pushField();
+        } else if (c === "\r") {
+          // skip, handled by \n
+        } else if (c === "\n") {
+          pushRow();
+        } else {
+          field += c;
         }
-
-        const data = await response.json();
-        state.liveVehicles = data.vehicles || [];
-        state.liveStops = data.stops || [];
-        state.liveAlerts = data.alerts || [];
-        state.liveUpdatedAt = data.updated_at || "";
-        state.liveError = data.error || "";
-        state.liveOnline = !data.error;
-        updateVehicleHistory();
-      } catch (error) {
-        state.liveVehicles = [];
-        state.liveStops = [];
-        state.liveAlerts = [];
-        state.vehicleHistory.clear();
-        state.liveUpdatedAt = "";
-        state.liveOnline = false;
-        state.liveError = error.message || "proxy offline";
       }
-
-      renderHeader();
-      renderLiveVehicles();
-      renderAssistView();
-      if (state.activeView === "map") {
-        renderMap();
-      }
+      if (field.length || row.length) pushRow();
+      return rows.filter(r => !(r.length === 1 && r[0] === ""));
     }
 
-    loadData().catch(error => {
-      document.getElementById("route-grid").innerHTML = `<div class="empty-state">${error.message}</div>`;
-      document.getElementById("arrivals").innerHTML = `<div class="empty-state">${error.message}</div>`;
-    });
-
-    refreshLiveData();
-    setInterval(refreshLiveData, 15000);
-    setInterval(refreshAssistClock, 1000);
-    document.addEventListener("pointerdown", enableAudioAlerts, { once: true });
-    document.addEventListener("keydown", enableAudioAlerts, { once: true });
-  </script>
-</body>
-</html>
-
-
-  // New loadData hitting /api/data/
-  
     async function loadData() {
       try {
         // Load schedule data from the FastAPI backend
