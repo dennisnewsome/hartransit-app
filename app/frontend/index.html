@@ -2641,6 +2641,14 @@
       )].sort();
     }
 
+    function getServiceIdsForRoute(routeId) {
+      return [...new Set(
+        state.trips
+          .filter(trip => trip.route_id === routeId)
+          .map(trip => trip.service_id)
+      )].sort(serviceSort);
+    }
+
     function serviceSort(a, b) {
       const order = { weekday: 1, saturday: 2, sunday: 3 };
       return (order[a] || 99) - (order[b] || 99);
