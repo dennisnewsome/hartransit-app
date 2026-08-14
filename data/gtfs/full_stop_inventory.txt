@@ -1,0 +1,572 @@
+route_id,direction,stop_order,stop_name,source_type
+1,inbound,1,Road New Condos Opposite Hatters Park,pdf
+1,inbound,2,Road Front Of 4 East Hayestown Road,pdf
+1,inbound,3,Oak Lane 20 Feet South Of Oak Lane,pdf
+1,inbound,4,60 Feet West Of Moran,pdf
+1,inbound,5,Tamarack 130 Ft West Of E Hayestown Road Near Henry Abott Tech,pdf
+1,inbound,6,North Street Shopping Center,pdf
+1,inbound,7,Front Of Brookside Condos,pdf
+1,inbound,8,Front Of Northridge Condos,pdf
+1,inbound,9,Road E Hayestown Road Front Of 96 Golden Hill Road Near 25 Mph Sign,pdf
+1,inbound,10,Danbury High School,pdf
+1,inbound,11,Road Terrace Street Front Of 74 Golden Hill,pdf
+1,inbound,12,Road Golden Hill Av Front Of 48 Golden Hill,pdf
+1,inbound,13,Road Ventura Av 50 Feet North Of Ventura Av,pdf
+1,inbound,14,Golden Hill Road 200 Feet South Of Golden Hill Road,pdf
+1,inbound,15,Balmforth Front Of 26 North Street,pdf
+1,inbound,16,Patch Street 50 Feet North Of Patch Street,pdf
+1,inbound,17,East Franklin Street 40 Feet South Of Franklin Street,pdf
+1,inbound,18,Main Street 200 Ft East Of Main Street,pdf
+1,inbound,19,Pulse Point,pdf
+1,outbound,1,Pulse Point,pdf
+1,outbound,2,Opposite 11 Rose Street,pdf
+1,outbound,3,Main Street 100 Feet East Of Main Street,pdf
+1,outbound,4,Garamella Front Of 27 Balmforth Avenue,pdf
+1,outbound,5,Front Of 41 Balmforth Avenue,pdf
+1,outbound,6,Rowan Street 25 Feet North Of Learning Center,pdf
+1,outbound,7,Balmforth Maple Front Of 29 North Street,pdf
+1,outbound,8,Thorpe Street 40 Feet West Of Carland Auto,pdf
+1,outbound,9,Tooley Lane Front Of 429 Main C And C Deli,pdf
+1,outbound,10,Road Margerie Street Front Of 13 Golden Hill Road,pdf
+1,outbound,11,Road Front Of 37 Golden Hill Road,pdf
+1,outbound,12,Road Ezra Road 75 Feet South Of Ezra Road,pdf
+1,outbound,13,Road Berkshire Front Of 61 Golden Hill Road,pdf
+1,outbound,14,Road Padanaram Road Front Of 97 Golden Hill Road,pdf
+1,outbound,15,Front Of Padanaram Court,pdf
+1,outbound,16,Opposite Brookside Condos,pdf
+1,outbound,17,25 Feet South Of Burger King,pdf
+1,outbound,18,Rowan Street Extension Front Of Savings Bank Of Danbury 12 Hayestown Avenue,pdf
+1,outbound,19,Tamarack Road In Front Of 26 Hayestown Avenue,pdf
+1,outbound,20,Hayestown Road In Front Of Safe Lite Auto,pdf
+1,outbound,21,Virginia Avenue Extension 25 Feet North Of Virginia Avenue Entrance To Wooster Cemetary,pdf
+1,outbound,22,Forest Avenue 20 Feet West Of Forest Avenue,pdf
+1,outbound,23,Hospital Avenue 25 Feet North Of Hospital Avenue,pdf
+1,outbound,24,Tamarack Avenue Danbury Hospital Entrance Across From 27 Hospital Avenue,pdf
+1,outbound,25,Front Of 27 Hospital Avenue,pdf
+1,outbound,26,Hospital Avenue Front Of 90 Locust Avenue,pdf
+1,outbound,27,Osborne Street 150 Feet North Of Osborne Street,pdf
+1,outbound,28,Front Of 118 Osborne Street,pdf
+1,outbound,29,Somers Street 30 Feet East Of Somers Street,pdf
+1,outbound,30,Springside Avenue 15 Feet West Of Springside Avenue,pdf
+1,outbound,31,Front Of 5 Germantown Road,pdf
+1,outbound,32,Sand Pit Road Front Of 41 Germantown Road,pdf
+1,outbound,33,Road Across From 54 Sand Pit Road,pdf
+1,outbound,34,Road Front Of 79 Sand Pit Road Medical Center,pdf
+1,outbound,35,Sand Pit Road 100 Feet North Of Sand Pit Road,pdf
+1,outbound,36,Rubson Street At North Corner Of Intersection,pdf
+1,outbound,37,Stadley Rough Road 15 Feet South Stadley Rough Road,pdf
+1,outbound,38,Road Stadley Rough Road Front Of 23 Great Plain Road,pdf
+1,outbound,39,Road Albers Road 50 Feet North Of Albers Road,pdf
+1,outbound,40,Road Opposite Diamond Road,pdf
+1,outbound,41,Road Dixon Road Front Of 79 Great Plain Road,pdf
+1,outbound,42,Road Street Gregory Church,pdf
+1,outbound,43,Valleystream Road 15 Feet East Of Valleystream Road,pdf
+1,outbound,44,Acre Drive 15 Feet West Of Acre Dr,pdf
+1,outbound,45,At Town Park Vehicle Bay,pdf
+2,inbound,1,Road Old Hawleyville Road Front Of Mountain Laurel Plaza,pdf
+2,inbound,2,Road Copper Square,pdf
+2,inbound,3,Road Mcneil Road Opposite 53 Stony Hill Road,pdf
+2,inbound,4,Road Vail Road 80 Feet West Of Vail Road,pdf
+2,inbound,5,Road Sand Hill Road 6 Stony Hill Road,pdf
+2,inbound,6,Road Front Of Scalzo Realty,pdf
+2,inbound,7,Pocono Lane Front Of Mobil,pdf
+2,inbound,8,Puerta Villarte,pdf
+2,inbound,9,Newtown Road Front Of Wells Fargo,pdf
+2,inbound,10,Eagle Road 100 Feet West Of Eagle Road,pdf
+2,inbound,11,Opposite Lesser Evil,pdf
+2,inbound,12,24 Finance Dr,pdf
+2,inbound,13,Road Front Of 11 Old Newtown Road,pdf
+2,inbound,14,Road Newtown Road 15 Old Newtown Road,pdf
+2,inbound,15,Eagle Road Front Of Holiday Inn,pdf
+2,inbound,16,Super Stop N Shop Nutmeg Square,pdf
+2,inbound,17,Before The Route 6 Plaza,pdf
+2,inbound,18,Front Of 52 Newtown Road,pdf
+2,inbound,19,Front Of Action Auto,pdf
+2,inbound,20,Facility Entrance 15 Feet East Of Riverbend Condos Entrance,pdf
+2,inbound,21,Newtown Road At Gulf Station,pdf
+2,inbound,22,Byron Road 60 Feet North Of Byron,pdf
+2,inbound,23,Triangle,pdf
+2,inbound,24,Cook Street Front Of 127 Triangle Street,pdf
+2,inbound,25,Triangle Street 150 Feet North Of Triangle Street,pdf
+2,inbound,26,Front Of Mannkind Complex,pdf
+2,inbound,27,Sheridan Street At Corner Sheridan Casper,pdf
+2,inbound,28,Mcdermott Street 80 Feet West Of Mcdermott Street,pdf
+2,inbound,29,Town Hill Avenue 60 Feet East Of Town Hill Avenue,pdf
+2,inbound,30,Avenue Liberty Street 50 Feet South Of Liberty Street,pdf
+2,inbound,31,Liberty Street Front Of Liberty Auto Repair,pdf
+2,inbound,32,Independence Way 100 Ft North Independence Way Near Street Lamp Danbury Train Station,pdf
+2,inbound,33,Pulse Point,pdf
+2,outbound,1,Pulse Point,pdf
+2,outbound,2,West Street Nvcc Pershing Building,pdf
+2,outbound,3,West Street Front Of Danbury Library,pdf
+2,outbound,4,50 Feet East Of Main Street,pdf
+2,outbound,5,Town Hill Avenue 80 Feet West Of Town Hill Avenue,pdf
+2,outbound,6,Town Hill Avenue 50 Feet East Of Town Hill Avenue,pdf
+2,outbound,7,Stone Street Front Of Sacred Heart Church,pdf
+2,outbound,8,Sheridan Street 40 Feet East Of Sheridan Street,pdf
+2,outbound,9,In Front Of Mannkind Facility,pdf
+2,outbound,10,Front Of 92 Taylor Street,pdf
+2,outbound,11,Cook Street Next To Lions Condos,pdf
+2,outbound,12,Triangle Terrace At The Corner Of Triangle Street And Triangle Terrace Near Pickett Fence,pdf
+2,outbound,13,Purcell Drive Front Of 162 Triangle Street,pdf
+2,outbound,14,Cross Street 80 Feet South Of Cross Street,pdf
+2,outbound,15,Front Of 11 Newtown Road Opposite Riverbend Condos,pdf
+2,outbound,16,Old Shelter Roack 25 Newtown Road Padaminas,pdf
+2,outbound,17,Woodside Avenue Newtown Road 75 Feet South Of Newtown Road,pdf
+2,outbound,18,Woodside Avenue Woodside Avenue Extension 20 Feet North Of Woodside Avenue Extension,pdf
+2,outbound,19,Woodside Avenue Extension Eden Drive 15 Feet West Of Eden Drive,pdf
+2,outbound,20,Hager Street Woodside Avenue 25 Feet East Of Woodside Avenue,pdf
+2,outbound,21,Woodside Avenue Newtown Road 50 Feet South Of Newtown Road,pdf
+2,outbound,22,Newtown Road Opposite 40 Newtown Road,pdf
+2,outbound,23,Plumtree Road 300Ft West Of Plumtree Road Across From Sunoco,pdf
+2,outbound,24,Staples Berkshire Shopping Plaza,pdf
+2,outbound,25,Walmart Berkshire Shopping Plaza,pdf
+2,outbound,26,Marshall S Berkshire Shopping Plaza,pdf
+2,outbound,27,Road Newtown Road 120 Feet North Of Newtown Road,pdf
+2,outbound,28,In Front Of 27 Augusta Drive,pdf
+2,outbound,29,Eagle Road 4 Finance Drive Tbico,pdf
+2,outbound,30,22 Eagle Road,pdf
+2,outbound,31,Newtown Road 150 Ft North Of Newtown Road Across From Courtyard Marriot Sign,pdf
+2,outbound,32,Industrial Plaza Drive 40 Ft West Of Industrial Plaza Dr,pdf
+2,outbound,33,Front Of 103 109 Newtown Road,pdf
+2,outbound,34,Road Payne Road 60 Feet East Of Intersection,pdf
+2,outbound,35,Road Sky Edge Drive,pdf
+2,outbound,36,Stony Hill Road Front Of 4 Garella Road,pdf
+2,outbound,37,Stony Hill Road Cul De Sac At End Of Berkshire Blvd,pdf
+2,outbound,38,Road Sand Hill Road Best Western,pdf
+2,outbound,39,Road Terrace Road 40 Feet East Of Terrace,pdf
+2,outbound,40,Road Past Meeting House,pdf
+2,outbound,41,Road Front Of 53 Stony Hill Road,pdf
+2,outbound,42,Road,pdf
+2,outbound,43,Road Uconn Cooperative Extension,pdf
+2,outbound,44,Road Old Hawleyville Road Opposite Mountain Laurel Plaza,pdf
+3,inbound,1,Road Exit 2 Park And Ride In Front Of Park And Ride Attached To Other Sign,pdf
+3,inbound,2,Road Exit 1 Park And Ride Inside Park And Ride,pdf
+3,inbound,3,Raod Exit 1 Park And Ride Entrance To Lot,pdf
+3,inbound,4,Road Front Of Danbury Sheridan,pdf
+3,inbound,5,Road Prindle Lane Front Of 106 Mill Plain Road Barret Roofing,pdf
+3,inbound,6,Road Front Of Dutchess,pdf
+3,inbound,7,Road Westwood Dr In Front Of Volkswagen Dealer,pdf
+3,inbound,8,Road Front Of Jewelry Design,pdf
+3,inbound,9,Road Westwood Vil Drive 66 Mill Plain Road,pdf
+3,inbound,10,Road 56 Mill Plain Road,pdf
+3,inbound,11,Road Kenosia Avenue Front Of Nysc Gym,pdf
+3,inbound,12,Road Amity Lane 12 Mill Plain Road,pdf
+3,inbound,13,Extension Front Of Stop And Shop Opposite Monro Muffler,pdf
+3,inbound,14,Extension Front Of 40 Lake Avenue Extension,pdf
+3,inbound,15,Extension 24 Lake Av Extension,pdf
+3,inbound,16,Mill Ridge Road 2 Lake Av Extension,pdf
+3,inbound,17,Road Lake Avenue 80 Feet North Of Lake Avenue,pdf
+3,inbound,18,Lawncrest Road Southwest Corner Of Intersect,pdf
+3,inbound,19,Westville Avenue 10 Feet East Of Westville Avenue,pdf
+3,inbound,20,Myrtle Avenue Front Of Morris Street School,pdf
+3,inbound,21,Highland Avenue 40 Feet North Of Highland Avenue,pdf
+3,inbound,22,Franklin Street 30 Feet West Of Franklin Street,pdf
+3,inbound,23,John Street 40 Feet East Of John Street,pdf
+3,inbound,24,Avenue Hoyt Street 35 Feet South Of Hoyt Street,pdf
+3,inbound,25,Avenue Grandview Drive At Parking Lot Of 88 Rose Hill Avenue Silvermine Development Corp,pdf
+3,inbound,26,Elm Street 40 Feet South Of Elm At Basketball Court,pdf
+3,inbound,27,Opposite Putnum Tower,pdf
+3,inbound,28,New Street Front Of 18 Spring Street,pdf
+3,inbound,29,Pulse Point,pdf
+3,outbound,1,Pulse Point,pdf
+3,outbound,2,New Street Front Of 27 Spring Street,pdf
+3,outbound,3,Front Of Putnam Tower,pdf
+3,outbound,4,Elm Street 80 Feet North Of Elm Street,pdf
+3,outbound,5,Avenue Opposite Grandview Avenue,pdf
+3,outbound,6,Avenue Hoyt Street 20 Feet South Of Hoyt Street,pdf
+3,outbound,7,Front Of 79 Franklin Street,pdf
+3,outbound,8,Mallory 50 Feet South Of Mallory Street,pdf
+3,outbound,9,Hoyt Street,pdf
+3,outbound,10,Highland Avenue 40 Feet North Of Highland Avenue,pdf
+3,outbound,11,Myrtle Avenue 40 Feet North Of Myrtle Avenue,pdf
+3,outbound,12,Westville Avenue 50 Feet East Of Westville Avenue,pdf
+3,outbound,13,Abbott Avenue 100 Feet West Of Abbott Avenue,pdf
+3,outbound,14,Road Lake Avenue 70 Feet North Of Lake Avenue,pdf
+3,outbound,15,Mill Ridge Road Lake Avenue Extension Front Of 3 Mill Ridge Road,pdf
+3,outbound,16,Mill Ridge Road Mill Ridge Drive Front Of 17 Mill Ridge Road,pdf
+3,outbound,17,Mill Ridge Road High Ridge Road Front Of 35 Mill Ridge Road,pdf
+3,outbound,18,Mill Ridge Road High Ridge Road Front Of 71 Mill Ridge Road,pdf
+3,outbound,19,Mill Ridge Road Front Of 93 Mill Ridge Road,pdf
+3,outbound,20,Mill Ridge Road Front Of 123 Mill Ridge Road,pdf
+3,outbound,21,Mill Ridge Road Mill Ridge Road Front Of 2 Mill Ridge Road,pdf
+3,outbound,22,Extension West Of Mill Ridge Road Lake Avenue Plaza,pdf
+3,outbound,23,Extension Front Of Ethan Allen Inn,pdf
+3,outbound,24,Extension Wcsu Westside Campus,pdf
+3,outbound,25,Extension Crestdale Road 53 Lake Avenue Extension,pdf
+3,outbound,26,Road Amity Lane 25 Feet East Of Amity,pdf
+3,outbound,27,Road Elmbrook Dr 80 Feet West Of Elmbrook,pdf
+3,outbound,28,Road Westwoods Village 25 Feet West Of Access Road To Westwood Village,pdf
+3,outbound,29,Road Mill Plain Service Road In Vincinity Of Subway Directly Across Road Is Existing Sign,pdf
+3,outbound,30,Road Aunt Hack Road 40 Feet West Of Aunt Hack Road,pdf
+3,outbound,31,Road Prindle Lane 15 Feet West Of Prindle Lane,pdf
+3,outbound,32,Road In Front Of Mobil,pdf
+3,outbound,33,Road Near I 84 Junction West Of Entrance To Shopping Center With Trader Joe S,pdf
+3,outbound,34,Road Opposite Danbury Crown Plaza,pdf
+3,outbound,35,Designated Stop At Matrix,pdf
+3,outbound,36,Designated Stop At Mcca,pdf
+4,inbound,1,Front Of 300 Federal Road,pdf
+4,inbound,2,270 Federal Road,pdf
+4,inbound,3,Sandy Lane 100 Feet North Of Costco Entr On Costco Side Near Telephone Pole,pdf
+4,inbound,4,Hardscrabble Road Front Of Moe S Southwest Grill By Telephone Pole 164 Federal Road,pdf
+4,inbound,5,Front Of 132 Federal Road Near Kohl S Entrance Across From Five Guys,pdf
+4,inbound,6,Front Of Wendy S,pdf
+4,inbound,7,Near Sherman Williams After Wendy S Sign Near Telephone Pole,pdf
+4,inbound,8,Front Of 128 Federal Road Widow Browns,pdf
+4,inbound,9,Nabby Road Front Of 114 Federal Road,pdf
+4,inbound,10,Front Of Pc Richards Planet Fitness,pdf
+4,inbound,11,South Of International Dr Front Of Quality Inn 78 Federal Road Near Telephone Pole,pdf
+4,inbound,12,Beaver Brook Road Front Of 15 Starr Road,pdf
+4,inbound,13,Road Starr Road Front Of 94 Sand Pit Road,pdf
+4,inbound,14,Road Front Of 80 Sand Pit Road,pdf
+4,inbound,15,Front Of Germantown Plaza,pdf
+4,inbound,16,First Avenue Front Of 8 Germantown Road,pdf
+4,inbound,17,Locust Avenue Front Of Dialysis,pdf
+4,inbound,18,Ninth Street Front Of 99 Osborne Street,pdf
+4,inbound,19,In Front Of 77 Osborne Street,pdf
+4,inbound,20,Hospital Avenue Front Of 69 Osborne Street,pdf
+4,inbound,21,Moss Street 100 Feet West Of Moss Avenue,pdf
+4,inbound,22,Pulse Point,pdf
+4,outbound,1,Pulse Point,pdf
+4,outbound,2,Opposite 11 Rose Street,pdf
+4,outbound,3,Main Street 100 Feet East Of Main Street,pdf
+4,outbound,4,Moss Avenue 100 Feet West Of Moss Avenue,pdf
+4,outbound,5,Hospital Avenue 100 Feet West Of Hospital Avenue,pdf
+4,outbound,6,Ninth Street 100 Feet West Of Ninth Street,pdf
+4,outbound,7,Front Of 118 Osborne Street,pdf
+4,outbound,8,Somers Street 30 Feet East Of Somers Street,pdf
+4,outbound,9,Springside Avenue 15 Feet West Of Springside Avenue,pdf
+4,outbound,10,Front Of 5 Germantown Road,pdf
+4,outbound,11,Front Of 41 Germantown Road,pdf
+4,outbound,12,Road Front Of Avalon Apts,pdf
+4,outbound,13,Road Front Of 79 Sand Pit Road,pdf
+4,outbound,14,Road Starr Road Front Of 93 Sand Pit Road,pdf
+4,outbound,15,Beaver Brook Road Front Of 24 Starr Road,pdf
+4,outbound,16,Eagle Road Extension Front Of Enterprise Car Rental,pdf
+4,outbound,17,Old Brookfield Road Front Of Park And Ride Lot,pdf
+4,outbound,18,Nabby Road Front Of 87 Federal Road,pdf
+4,outbound,19,Nabby Road Inside Stew Leonards,pdf
+4,outbound,20,Nabby Road Front Stew Leonards 80 Feet North Of Southern Entrance,pdf
+4,outbound,21,Nabby Road Front Of Salsa Fresca 109 Federal Road,pdf
+4,outbound,22,Front Of Dunkin Donuts 7 Federal Road,pdf
+4,outbound,23,Front Of Michaels,pdf
+4,outbound,24,Front Of Kohl S,pdf
+4,outbound,25,Front Of 121 Federal Road Five Guys,pdf
+4,outbound,26,Rite Sign Is On Pillar In Lot Front Of Shop Rite,pdf
+4,outbound,27,Hardcrabble 75 Feet South Of Hardscrabble,pdf
+4,outbound,28,Costco Entrance 227 Federal Road,pdf
+4,outbound,29,Front Of Rollingwood Plaza,pdf
+4,outbound,30,Opposite 300 Federal Road,pdf
+4,outbound,31,Milford Road Opposite Huckleberry Hill Road,pdf
+5,inbound,1,Street Beach Street In Front Of 86 Grassy Plain Street,pdf
+5,inbound,2,Street Griswold Lane 25 Feet South Of Griswold Lane,pdf
+5,inbound,3,Plumtrees Road Opposite Mountain View Estates,pdf
+5,inbound,4,Maple Avenue Extension Front Of Bethel Police Dept,pdf
+5,inbound,5,Front Of Colonial Acres Apart,pdf
+5,inbound,6,Plumtrees Road Front Of Plumtrees Heights Condos,pdf
+5,inbound,7,Milwaukee Avenue 150 Feet East Of Milwaukee Avenue,pdf
+5,inbound,8,Main Street 40 Feet East Of Main Street,pdf
+5,inbound,9,Greenwood Avenue Front Of Citgo Gas Station,pdf
+5,inbound,10,Wooster Street P T Barnum Square,pdf
+5,inbound,11,Front Of Dolan Plaza Put Shelter Here,pdf
+5,inbound,12,High Street Front Of Church Of Bethel,pdf
+5,inbound,13,Front Of Burger King,pdf
+5,inbound,14,Diamond Avenue At Shelter Opposite Sycamore,pdf
+5,inbound,15,Road Greenwood Avenue 150 Feet North Of Greenwood,pdf
+5,inbound,16,Grassy Plain Road Front Of 4 Fleetwood Avenue,pdf
+5,inbound,17,Front Of 34 Fleetwood Avenue,pdf
+5,inbound,18,Hill Road Front Of Spring Ridge Apts,pdf
+5,inbound,19,Hill Road Front Of Deer Ridge Apts,pdf
+5,inbound,20,Hill Road 88 Coal Pit Hill Road,pdf
+5,inbound,21,Hill Road South Street 150 Feet South Of South Street,pdf
+5,inbound,22,Street Willow Street 35 Feet South Of Willow Street,pdf
+5,inbound,23,Street Front Of 11 Grassy Plain Street,pdf
+5,inbound,24,Opposite Southfield Condos,pdf
+5,inbound,25,Mannion Road Directly Across From Mannion Road,pdf
+5,inbound,26,Front Of Autobody And Collision,pdf
+5,inbound,27,High Street Extension Front Of Drs,pdf
+5,inbound,28,Shelter Rock Front Of Ems,pdf
+5,inbound,29,Fairfield Avenue Front Of 67 South Street,pdf
+5,inbound,30,Front Of South Street School,pdf
+5,inbound,31,Front Of Kimberly Place,pdf
+5,inbound,32,Front Of Danbury Commons,pdf
+5,inbound,33,Park Place Front Of Juvenile Courthouse,pdf
+5,inbound,34,Center Street,pdf
+5,inbound,35,Liberty Street Front Of Family Dollar Store,pdf
+5,inbound,36,Pulse Point,pdf
+5,outbound,1,Pulse Point,pdf
+5,outbound,2,West Street 100 Feet North Of West Street,pdf
+5,outbound,3,Deer Hill Avenue Front Of Lighthouse Ministries,pdf
+5,outbound,4,West Street Front Of Danbury Library,pdf
+5,outbound,5,Wooster Street Front Of 80 Main Street,pdf
+5,outbound,6,Elmwood Place In Front Of 50 Main Street,pdf
+5,outbound,7,Opposite Kimberly Place,pdf
+5,outbound,8,South Street 80 Feet South Of South Street,pdf
+5,outbound,9,Rogers Park Jhs 5 Feet North Of Access Drive,pdf
+5,outbound,10,Dead End Glen Apartments,pdf
+5,outbound,11,South Street Near The Memorial,pdf
+5,outbound,12,Opposite South Street School,pdf
+5,outbound,13,Fairfield Avenue 30 Feet East Of Fairfield Avenue,pdf
+5,outbound,14,Liberty Avenue 40 Feet East Of Liberty Avenue,pdf
+5,outbound,15,High Street Extension 30 Feet North Of High Street Extension,pdf
+5,outbound,16,Front Of 28 South Street,pdf
+5,outbound,17,Front Of 14 South Street,pdf
+5,outbound,18,Kimberly Commons,pdf
+5,outbound,19,Street Front Of Timber Oaks Condos,pdf
+5,outbound,20,Street Front Of Dunkin Donuts,pdf
+5,outbound,21,Hill Road South Street Front Of 23 Coal Pit Hill Road,pdf
+5,outbound,22,Hill Road Rocky Glen Road Front Of Park Side South Condos,pdf
+5,outbound,23,Hill Road Opposite Putnam Drive,pdf
+5,outbound,24,Hill Road Opposite Spring Ridge Condos,pdf
+5,outbound,25,Hudson Street Front Of 31 Fleetwood Avenue,pdf
+5,outbound,26,Grassy Plain Street 125 Feet North Of Grassy Plain,pdf
+5,outbound,27,Street Drummers Lane 20 Feet North Of Drummers Lane,pdf
+5,outbound,28,Street Reservoir Street Grassy Plain Estates,pdf
+5,outbound,29,Street Cherry Lane In Front Of 141 Grassy Plain Street Barzetti S Welding,pdf
+5,outbound,30,Street Second Lane 5 Feet South Of Second Lane,pdf
+5,outbound,31,Cl 2Nd Lane Front Of 5 Francis Clarke Cl,pdf
+5,outbound,32,Cl Front Of 13 Francis Clark Cl,pdf
+5,outbound,33,Cl Front Of 19 Francis Clarke Cl,pdf
+5,outbound,34,Cl Trowbridge Drive 15 Feet West Of Trowbridge Dr,pdf
+5,outbound,35,Cl End Of Loop Front Of Bethel Power Equipment,pdf
+5,outbound,36,Street Front Of New England Propane,pdf
+5,outbound,37,Street Front Of 146 Grassy Plain Street,pdf
+5,outbound,38,Street Front Of 138 Grassy Plain Street,pdf
+5,outbound,39,Street South Street 150 South Of South Street,pdf
+5,outbound,40,Grassy Plain Street Front Of Sycamore Diner,pdf
+5,outbound,41,Opposite Burger King,pdf
+5,outbound,42,Blackman Street 25 Feet West Of Blackman Street,pdf
+5,outbound,43,South Street Shepard S Inc Facility,pdf
+5,outbound,44,Front Of Greenwood Plaza,pdf
+5,outbound,45,School Street 35 Feet North Of School Street,pdf
+5,outbound,46,Durant Avenue Bethel Senior Center,pdf
+5,outbound,47,Front Of 15 Durant Avenue,pdf
+5,outbound,48,Durant Avenue Front Of 5 Simeon Road,pdf
+5,outbound,49,At Bench Front Of 15 Simeon Road,pdf
+5,outbound,50,Durant Avenue Front Of 45 Simeon Road,pdf
+5,outbound,51,Front Of Bethel Post Office,pdf
+5,outbound,52,Pt Barnum Plaza,pdf
+5,outbound,53,Front Of Caraluzzi S,pdf
+5,outbound,54,Front Of 72 Greenwood Avenue,pdf
+5,outbound,55,Topstone Drive In Front Of 44 Greenwood Avenue,pdf
+5,outbound,56,Andrews Street 15 Feet West Of Andrews Street,pdf
+5,outbound,57,Milwaukee Avenue 40 Feet West Of Milwaukee Avenue,pdf
+5,outbound,58,Midway Drive 10 Feet East Of Midway Drive,pdf
+5,outbound,59,Milwaukee Av Front Of 5 Judd Avenue,pdf
+5,outbound,60,Whittlesey Drive 20 Feet South Of Whittlesey,pdf
+5,outbound,61,Along Bethel H S Football Field,pdf
+6,inbound,1,Blvd Willow Pond Road At Jensen Park Entrance,pdf
+6,inbound,2,Blvd Kenosia Park Fields,pdf
+6,inbound,3,At Kenosia Lake Boat Launch,pdf
+6,inbound,4,Boulevard Drive 100 Feet North Of Boulevard Drive,pdf
+6,inbound,5,Ye Olde Road 25 Feet North Of Ye Olde Road,pdf
+6,inbound,6,Backus Avenue 51 Kenosia Avenue,pdf
+6,inbound,7,Kenosia Avenue,pdf
+6,inbound,8,Opposite Chuck S Steakhouse,pdf
+6,inbound,9,Lake Avenue 200 Feet South Of Lake Avenue,pdf
+6,inbound,10,Hobson Street 40 Feet East Of Hobson Street,pdf
+6,inbound,11,South Well Avenue 50 Feet West Of South Well Avenue,pdf
+6,inbound,12,Crofut Street 30 Feet East Of Crofut Street,pdf
+6,inbound,13,Benedict Avenue Front Of 152 West Street El Dorado,pdf
+6,inbound,14,Opposite Salame Plaza,pdf
+6,inbound,15,Division Street 100 West Street,pdf
+6,inbound,16,William Street 54 West Street,pdf
+6,inbound,17,Pulse Point,pdf
+6,outbound,1,Pulse Point,pdf
+6,outbound,2,West Street 100 Feet North Of West Street,pdf
+6,outbound,3,Montgomery Street Front Of 65 West Street,pdf
+6,outbound,4,Park Avenue Front Of 54 Division Street,pdf
+6,outbound,5,Harding Place Front Of 11 Park Avenue,pdf
+6,outbound,6,Dibble Street Front Of 28 Park Avenue,pdf
+6,outbound,7,Front Of Summitt Park West Condos,pdf
+6,outbound,8,Front Of Pinewood Circle,pdf
+6,outbound,9,West Wooster Street Park Av And West Wooster,pdf
+6,outbound,10,Street Ohehyahtah Place 15 Feet West Of Ohehyatah Place,pdf
+6,outbound,11,Street Front Of Crosby Manor,pdf
+6,outbound,12,Street Jefferson Avenue 40 Feet West Of Jefferson Avenue,pdf
+6,outbound,13,Street Front Of Wooster Manor,pdf
+6,outbound,14,Spruce Street 20 Feet South Of East Pearl Street,pdf
+6,outbound,15,Dr Aaron Samuels Blvd 30 Ft South Aaron Samuels Blvd,pdf
+6,outbound,16,Park Avenue At U Haul Near Telephone Pole Structure,pdf
+6,outbound,17,Front Of 93 West Street,pdf
+6,outbound,18,Beaver Street At Salame Plaza,pdf
+6,outbound,19,Westville Avenue Front Of 11 Lake Avenue,pdf
+6,outbound,20,Well Avenue Front Of 33 Lake Avenue,pdf
+6,outbound,21,Haddad Drive O Brien S Restaurant,pdf
+6,outbound,22,Mill Ridge Road Opposite 2 Mill Ridge Road,pdf
+6,outbound,23,Mill Ridge Road Front Of 17 Mill Ridge Road,pdf
+6,outbound,24,Mill Ridge Road Front Of 35 High Ridge,pdf
+6,outbound,25,Mill Ridge Road Front Of 93 Mill Ridge Road,pdf
+6,outbound,26,Mill Ridge Road Front Of 123 Mill Ridge Road,pdf
+6,outbound,27,Mill Ridge Road Front Of 2 Mill Ridge Road,pdf
+6,outbound,28,Lake Avenue 200 Feet South Of Lake Avenue,pdf
+6,outbound,29,At Chuck S Steakhouse,pdf
+6,outbound,30,Road Whole Foods Market,pdf
+6,outbound,31,Danbury Fair Mall,pdf
+6,outbound,32,Barnes And Noble In Danbury Square Mall,pdf
+6,outbound,33,Backus Avenue 500 Feet North Of Backus Avenue,pdf
+6,outbound,34,Ye Olde Road 44 Kenosia Avenue,pdf
+6,outbound,35,Apple Ridge Road Cartus,pdf
+6,outbound,36,Precision Road At Intersection,pdf
+6,outbound,37,Precision Road 22 Kenosia Avenue,pdf
+6,outbound,38,Boulevard Drive 125 Feet North Of Boulevard Drive,pdf
+6,outbound,39,Opposite Kenosia Lake Boat Launch,pdf
+6,outbound,40,Blvd Opposite Kenosia Park Fields,pdf
+7,inbound,1,Lane Road Belair Drive Bel Air Condos,pdf
+7,inbound,2,Lane Road Avery Road 20 Feet North Of Dunkin Donuts,pdf
+7,inbound,3,Lane Road Carlson S Ridge Road Opposite Amanda Rose Beauty,pdf
+7,inbound,4,Lane Road Park Lane West Road 15 Feet North Of Before Park Lane W,pdf
+7,inbound,5,Lane Road Opposite 24 Park Lane At Pond Animal Hospital,pdf
+7,inbound,6,Street Front Of New Milford Police,pdf
+7,inbound,7,Street Hill Drive Hillside Apts,pdf
+7,inbound,8,Milford Elm Street Extension Poplar Street Flag Stops Butterbrook Deviation,pdf
+7,inbound,9,Milford Butterbrook Hill Road Brookside Avenue Butterbrook Hill Apts,pdf
+7,inbound,10,Street Main Street Front Of New Milford Hospital,pdf
+7,inbound,11,Street Bridge Street Front Of Post Office,pdf
+7,inbound,12,Street Nicholas Pl Front Of 47 Bridge Street New Milford Parks And Rec,pdf
+7,inbound,13,Street Young S Field Dr 15 Feet East Of Before Young S Field Road,pdf
+7,inbound,14,Road Peagler Hill Road Front Of Dunkin Donuts,pdf
+7,inbound,15,Road Sunny Valley Road Front Of Mcdonalds,pdf
+7,inbound,16,Road Pickett District Front Of United Methodist Church,pdf
+7,inbound,17,Road 150 South Of Home Depot,pdf
+7,inbound,18,Road Sunny Valley Road Front Of 132 Danbury Road,pdf
+7,inbound,19,Road Front Of Monro Muffler 150 Danbury Road,pdf
+7,inbound,20,Road Front Of Super Stop And Shop Inside Lot,pdf
+7,inbound,21,Road Front Of Mercury Gas Station 222 Danbury Road,pdf
+7,inbound,22,Road Old State Road Front Of Willow Springs,pdf
+7,inbound,23,Road Old State Road Far Side Of Intersection,pdf
+7,inbound,24,Road Sullivan Road Opposite Wetmore S Chrysler,pdf
+7,inbound,25,Road Front Of Dunkin Donuts 370 Danbury Road,pdf
+7,inbound,26,Road Larson Road Front Of New Milford High School 388 Danbury Road,pdf
+7,inbound,27,Road Opposite Valmar Drivefront Of Candlewood Condos Opposite Valmar Drive,pdf
+7,inbound,28,Road Opposite Cross Road Elephant S Trunk Flea Mkt,pdf
+7,inbound,29,Road Front Of Aldine Metal 566 Danbury Road,pdf
+7,inbound,30,Road Front Of Faith Church 600 Danbury Road,pdf
+7,inbound,31,Front Of Newbury Inn 1030 Federal Road,pdf
+7,inbound,32,Front Of 1000 Federal Road Next To Utility Pole,pdf
+7,inbound,33,Front Of 934 Federal Road,pdf
+7,inbound,34,Front Of Brookfield Lanes 840 Federal Road,pdf
+7,inbound,35,Station Road Dunkin Donuts,pdf
+7,inbound,36,Old Federal Road Nearside Of Intersection,pdf
+7,inbound,37,Laurel Hill Road 25 Ft N Of 1 Laurel Hill Road Front Of Brkfld Pharmacy,pdf
+7,inbound,38,Front Of 632 Federal Road,pdf
+7,inbound,39,Flag Stops Between Silvermine And Junction Roads Until New Bus Stops Are Approved,pdf
+7,inbound,40,Federal Road 150 Feet East Of Federal Road 115 Silvermine Road,pdf
+7,inbound,41,Still River Greenway Trailhead,pdf
+7,inbound,42,Front Of Mcmullin Mfg 70 Pocono Road,pdf
+7,inbound,43,Front Of Astra Lite 20 Pocono Road,pdf
+7,inbound,44,Pocono Road Opposite Commerce Drive Before The Route 7 Overpass,pdf
+7,inbound,45,Federal Road Opp First Assmbly Of God Church 133 Junction Road,pdf
+7,inbound,46,Milford Road Huckleberry Hill Intersection Old New Milford Huckleberry Hill Road,pdf
+7,inbound,47,Front Of 300 Federal Road,pdf
+7,inbound,48,Rollingwood Condos Entrfarnocnet Of 270 Federal Road,pdf
+7,inbound,49,Costco Entrance 100 Feet South Of Costco Entr,pdf
+7,inbound,50,Beverly Drive Front Of Moe S Southwestern Grill 174 Federal Road,pdf
+7,inbound,51,Front Of 132 Federal Road Plaza Next To Sunoco Gas Station,pdf
+7,inbound,52,Front Of Wendy S,pdf
+7,inbound,53,Front Of Party Depot,pdf
+7,inbound,54,Front Of Widow Brown S,pdf
+7,inbound,55,Nabby Road Front Of 114 Federal Road,pdf
+7,inbound,56,Front Of Pc Richards Pc Richards,pdf
+7,inbound,57,Eagle Road Extension Front Of Quality Inn,pdf
+7,inbound,58,Front Of Fair Auto Park,pdf
+7,inbound,59,Swanson Road South Of Mercedes Benz,pdf
+7,inbound,60,Front Of Hart Operations,pdf
+7,inbound,61,Morgan Street Front Of 62 Federal Road,pdf
+7,inbound,62,Front Of United Rentals 32 Federal Road,pdf
+7,inbound,63,Front Of Waterware 30A Federal Road,pdf
+7,inbound,64,White Street Front Of Dance Studio 10 Federal Road,pdf
+7,inbound,65,Locust Avenue 20Ft East Of Motorworks,pdf
+7,inbound,66,Eighth Street 35 Feet West Of Eighth Street,pdf
+7,inbound,67,Fifth Street Front Of Wcsu White Hall,pdf
+7,inbound,68,Moss Avenue 141 White Street,pdf
+7,inbound,69,Dr White Street 60 Feet North Of White Street Near Papa John S Pizza,pdf
+7,inbound,70,Pulse Point,pdf
+7,outbound,1,Pulse Point,pdf
+7,outbound,2,National Lane On Light Post Before Meeker Hardware,pdf
+7,outbound,3,Front Of Leahy S,pdf
+7,outbound,4,Front Of Hoffman Fuel,pdf
+7,outbound,5,Eighth Street Front Of 206 White Street,pdf
+7,outbound,6,Wildman Street Opposite Motorworks,pdf
+7,outbound,7,White Street Opposite Levine Automotive,pdf
+7,outbound,8,Opposite United Rental,pdf
+7,outbound,9,Morgan Avenue Front Of Mitchell Oil,pdf
+7,outbound,10,Opposite Hart Garage,pdf
+7,outbound,11,Swanson Road Opposite Mercedes Benz,pdf
+7,outbound,12,Starr Road Opposite Honda,pdf
+7,outbound,13,Eagle Road Extension Opposite Enterprise,pdf
+7,outbound,14,Old Brookfield Road Front Of Park And Ride Lot,pdf
+7,outbound,15,Nabby Road Front Of Toyota Dealership,pdf
+7,outbound,16,End Of Stew Leonard S Inside Lot,pdf
+7,outbound,17,North Access Drive Of Stew35 L Feeoent Aprads Street First Entrance,pdf
+7,outbound,18,Stew Leonard S Access Dfrirvoent Of Salsa Fresca Robek S Smoothies,pdf
+7,outbound,19,Front Of Pizza Hut,pdf
+7,outbound,20,White Turkey Road Front Of Town Fair Tire,pdf
+7,outbound,21,Front Of Tj Maxx Cvs,pdf
+7,outbound,22,Front Of Kohl S,pdf
+7,outbound,23,Front Of 121 Federal Road 5 Guys,pdf
+7,outbound,24,Front Of Shop Rite,pdf
+7,outbound,25,Hardcrabble 75 Feet South Of Hardscrabble,pdf
+7,outbound,26,Front Of Lazboy Furniture Jersey Mike S Subs,pdf
+7,outbound,27,Front Of Rollingwood Plaza,pdf
+7,outbound,28,Opposite 300 Federal Road,pdf
+7,outbound,29,Del Mar Drive Front Of 355 Federal Road,pdf
+7,outbound,30,Milford Road Opposite Huckleberry Hill Road,pdf
+7,outbound,31,Federal Road At First Assembly Of God Church,pdf
+7,outbound,32,Commerce Drive 20 Feet West Of Commerce Drive,pdf
+7,outbound,33,Front Of 91 Commerce Drive,pdf
+7,outbound,34,Front Of 61 Commerce Dr,pdf
+7,outbound,35,Front Of Greentree Serv Center,pdf
+7,outbound,36,Opposite Mcmullin Mfg Corp,pdf
+7,outbound,37,Opposite Mcmullin Mfg 70 Pocono Road,pdf
+7,outbound,38,Pocono Road Municipal Center Lot,pdf
+7,outbound,39,Front Of Post Office,pdf
+7,outbound,40,Dean Road 40 Feet East Of Dean Road,pdf
+7,outbound,41,Federal Road 200 Feet East Of Federal Road,pdf
+7,outbound,42,Front Of 595 Federal Road,pdf
+7,outbound,43,Opposite Laurel Hill Road 731 Federal Road,pdf
+7,outbound,44,Front Of Panchos And Gringos 779 Federal Road,pdf
+7,outbound,45,Federal Road Front Of 10 Station Road,pdf
+7,outbound,46,Laurel Hill Road Opposite Aldine Metal,pdf
+7,outbound,47,Road No Mountain Road 10 Feet South Of North Mountain,pdf
+7,outbound,48,Of Brooks Quarry Apt 3,pdf
+7,outbound,49,Road North Mountain Road Opposite N Mountain Road 109 Laurel Hill Road,pdf
+7,outbound,50,Federal Road 27 Station Road,pdf
+7,outbound,51,Opposite Brookfield Lanes,pdf
+7,outbound,52,Opposite Inland Water Sports,pdf
+7,outbound,53,Opposite 1000 Federal Road By I 95 Radio,pdf
+7,outbound,54,Opposite Newbury Inn 1055 Federal Road,pdf
+7,outbound,55,Road Opposite Nm Block And Supply,pdf
+7,outbound,56,Road Front Of 507 Danbury Road 1St And 10 Sports Bar,pdf
+7,outbound,57,Road Cross Road 493 Danbury Road,pdf
+7,outbound,58,Road Opposite Candlewood Condos 461 Danbury Road Valmar Drive,pdf
+7,outbound,59,Road Opposite 338 Danbury Road New Milford High School,pdf
+7,outbound,60,Road Opposite 370 Danbury Road Dunkin Donuts,pdf
+7,outbound,61,Road Sullivan Road Front Of Wetmore S Chrysler,pdf
+7,outbound,62,Road Opposite Old State Road,pdf
+7,outbound,63,Road Opposite Willow Springs By Royal Cigs,pdf
+7,outbound,64,Road 223 Danbury Road,pdf
+7,outbound,65,Road Cedar Knolls Road Opposite Blue Bonnett Knoll,pdf
+7,outbound,66,Inside Lot Front Of Super Stop N Shop,pdf
+7,outbound,67,Road Dodd Road Front Of Modzelewski S,pdf
+7,outbound,68,Road Front Of Lore S Plaza,pdf
+7,outbound,69,Road Royal Car Wash,pdf
+7,outbound,70,Road Pickett District 150 Feet South Of Pickett District,pdf
+7,outbound,71,District Danbury Road Pettibone Community Center,pdf
+7,outbound,72,Valley Road Danbury Road 100 Feet West Of Danbury Road,pdf
+7,outbound,73,Valley Road N A Flag Stops In Effect For Sv Loop,pdf
+7,outbound,74,Valley Road Danbury Road 125 Feet West Of Danbury Road,pdf
+7,outbound,75,Road 33 Danbury Road,pdf
+7,outbound,76,Road 25 Danbury Road Oddfellows,pdf
+7,outbound,77,Road Bridge Street 5 Danbury Road,pdf
+7,outbound,78,Street Spring Street At Corner Of Spring Street Bridge Street Intersection,pdf
+7,outbound,79,Street South Main Street Front Of 44 Bridge Street,pdf
+7,outbound,80,Street Church Street Front Of Town Hall,pdf
+7,outbound,81,Street Elm Street North Of Senior Center Before Stop Sign Atop Main Street N,pdf
+7,outbound,82,Street 20 Elm Street,pdf
+7,outbound,83,Street Elm Street Opposite Hill Drive,pdf
+7,outbound,84,Lane Road Front Of 4 Park Lane Road,pdf
+7,outbound,85,Lane Road 33 Park Lane,pdf
+7,outbound,86,Lane Road Park Lane West Opposite Park Lane West,pdf
+7,outbound,87,Lane Road Front Of Park Lane Plaza,pdf
+7,outbound,88,Park Lane N A Flag Stops In Effect,pdf

@@ -1,0 +1,12 @@
+route_id,route_short_name,route_long_name,route_type
+1,1,1 Route,3
+10,10,10 Route,3
+17,17,17 Route,3
+2,2,2 Route,3
+3,3,3 Route,3
+4,4,4 Route,3
+5,5,5 Route,3
+6,6,6 Route,3
+7,7,7 Route,3
+8,8,8 Route,3
+9,9,9 Route,3
