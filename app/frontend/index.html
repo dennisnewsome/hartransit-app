@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Jamals HARTransit Rider App</title>
+  <title>HARTransit Rider App</title>
   <style>
 
   /* ── Azure SPA Tab Shell ── */
@@ -2297,6 +2297,18 @@
       }
     };
 
+    function t(key, params) {
+      const lang = (state.language === "es") ? "es" : "en";
+      let str = (UI_TRANSLATIONS[lang] && UI_TRANSLATIONS[lang][key] !== undefined)
+        ? UI_TRANSLATIONS[lang][key]
+        : (UI_TRANSLATIONS.en[key] !== undefined ? UI_TRANSLATIONS.en[key] : key);
+      if (params) {
+        Object.keys(params).forEach(k => {
+          str = str.split(`{${k}}`).join(params[k]);
+        });
+      }
+      return str;
+    }
 
       const LOOP_SUPPLEMENTAL_FULL_INVENTORY = {
       "8:inbound": [
@@ -2464,6 +2476,33 @@
       ],
     };
 
+
+      function getEasterSundayDate(year) {
+        // Anonymous Gregorian algorithm (Meeus/Jones/Butcher)
+        const a = year % 19;
+        const b = Math.floor(year / 100);
+        const c = year % 100;
+        const d = Math.floor(b / 4);
+        const e = b % 4;
+        const f = Math.floor((b + 8) / 25);
+        const g = Math.floor((b - f + 1) / 3);
+        const h = (19 * a + b - d - g + 15) % 30;
+        const i = Math.floor(c / 4);
+        const k = c % 4;
+        const l = (32 + 2 * e + 2 * i - h - k) % 7;
+        const m = Math.floor((a + 11 * h + 22 * l) / 451);
+        const month = Math.floor((h + l - 7 * m + 114) / 31);
+        const day = ((h + l - 7 * m + 114) % 31) + 1;
+        return new Date(year, month - 1, day);
+      }
+
+      function shouldShowHolidayServiceNotice() {
+        const today = new Date();
+        const easter = getEasterSundayDate(today.getFullYear());
+        return today.getFullYear() === easter.getFullYear()
+          && today.getMonth() === easter.getMonth()
+          && today.getDate() === easter.getDate();
+      }
 
       function toSeconds(hhmmss) {
       const [h, m, s] = hhmmss.split(":").map(Number);
@@ -7130,6 +7169,28 @@
       }, minutes * 60 * 1000);
     }
 
+
+      function renderAssistHelpPanel() {
+        const items = [
+          { term: t("termRideAlert"), body: t("termRideAlertBody") },
+          { term: t("termLiveLocation"), body: t("termLiveLocationBody") },
+          { term: t("termEstimatedArrival"), body: t("termEstimatedArrivalBody") },
+          { term: t("termPreviousBus"), body: t("termPreviousBusBody") },
+          { term: t("termChecking"), body: t("termCheckingBody") },
+        ];
+        return `
+          <div class="eyebrow">${t("rideTermsTitle")}</div>
+          <p class="muted">${t("rideTermsBody")}</p>
+          <div class="assist-help-grid">
+            ${items.map(item => `
+              <div class="assist-help-item">
+                <strong>${item.term}</strong>
+                <span>${item.body}</span>
+              </div>
+            `).join("")}
+          </div>
+        `;
+      }
 
       function renderAssistView() {
       const title = document.getElementById("assist-title");
