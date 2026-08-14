@@ -18,10 +18,10 @@ from fastapi import FastAPI, HTTPException, Body
 from fastapi.responses import FileResponse, JSONResponse, PlainTextResponse
 from fastapi.staticfiles import StaticFiles
 
-from .config import DEFAULT_SCHEDULE_ZIP, FRONTEND_DIR
-from .db import get_connection, initialize_db
-from .services.passio_service import get_live_snapshot, start_passio_poller
-from .services.schedule_importer import import_schedule_archive
+from app.backend.config import DEFAULT_SCHEDULE_ZIP, FRONTEND_DIR
+from app.backend.db import get_connection, initialize_db
+from app.backend.services.passio_service import get_live_snapshot, start_passio_poller
+from app.backend.services.schedule_importer import import_schedule_archive
 
 app = FastAPI(title="HARTransit")
 
